@@ -24,7 +24,7 @@ function AnimatedRock() {
       <OrbitControls
         enableZoom={true}
         enablePan={false}
-        autoRotate={false}
+        autoRotate={true}
         autoRotateSpeed={1}
         minDistance={30}
         maxDistance={85}
